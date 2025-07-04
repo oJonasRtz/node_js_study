@@ -1,16 +1,27 @@
 const	readline = require('readline/promises');
 const	{ stdin: input, stdout: output } = require('process');
 
+class	User{
+	async	getInput(){
+		const	rl = readline.createInterface({input, output});
+
+		this._name = await rl.question("Qual seu nome: ");
+		this._food = await rl.question("Qual sua comida favorita: ");
+		rl.close();;
+	}
+	iLove(){
+		console.log(this._name + " ama " + this._food + "!");
+	}
+}
+
 async function	main()
 {
-	const	rl = readline.createInterface({input, output});
+	let	user = new User();
 
-	let	name = await rl.question("Qual seu nome: ");
-	let	food = await rl.question("QUal sua comida favorita: ");
+	await user.getInput();
+	user.iLove();
 
-	console.log(name + " ama " + food + "!");
-
-	rl.close();
+	return (0);
 }
 
 main();
