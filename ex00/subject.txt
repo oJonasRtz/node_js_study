@@ -1,0 +1,6 @@
+📝 Exercício 1: Argumentos com process.argv
+Objetivo: Aprender a receber argumentos via terminal.
+
+Tarefa: Crie um programa que receba um nome e uma idade e imprima:
+
+Olá, Maria! Você tem 20 anos.

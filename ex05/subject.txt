@@ -1,0 +1,5 @@
+📂 Exercício 6: Organize com funções
+Objetivo: Aprender a separar código em funções.
+
+Tarefa: Refatore o exercício 5 criando funções salvarTexto() e lerTexto().
+

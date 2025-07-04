@@ -1,0 +1,8 @@
+🕸️ Exercício 7: Criar um servidor HTTP simples
+Objetivo: Aprender a usar o módulo http.
+
+Tarefa: Crie um servidor que responda:
+
+/ com "Bem-vindo"
+
+/sobre com "Este é um servidor feito por Sarah"

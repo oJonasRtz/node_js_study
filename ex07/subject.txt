@@ -1,0 +1,12 @@
+📦 Exercício 8: Instalar e usar um pacote com npm
+Objetivo: Aprender a usar pacotes externos.
+
+Tarefa:
+
+Inicie um projeto com npm init -y
+
+Instale o pacote chalk
+
+Use o chalk para imprimir texto colorido no terminal
+
+https://www.npmjs.com/package/chalk

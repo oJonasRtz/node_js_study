@@ -1,0 +1,4 @@
+📦 Exercício 2: Criando um objeto
+Objetivo: Aprender a usar objetos.
+
+Tarefa: Crie um objeto usuario com nome, email e idade. Crie uma função exibirUsuario() que imprime essas informações.

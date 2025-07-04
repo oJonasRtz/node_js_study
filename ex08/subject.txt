@@ -1,0 +1,10 @@
+🗂️ Exercício 9: Módulos e require
+Objetivo: Aprender a dividir o código em arquivos.
+
+Tarefa:
+
+Crie um arquivo math.js com funções somar() e multiplicar()
+
+Importe ele no app.js usando require()
+
+Use essas funções passando números do process.argv

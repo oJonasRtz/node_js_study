@@ -1,0 +1,12 @@
+🔧 Exercício 10: JSON e simulação de banco de dados
+Objetivo: Simular um CRUD básico.
+
+Tarefa:
+
+Crie um programa que salve um array de usuários em um arquivo .json
+
+O programa deve aceitar add, list e remove como comandos
+
+Ex: node app.js add Sarah
+
+Ex: node app.js list

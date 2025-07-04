@@ -1,0 +1,4 @@
+🔁 Exercício 3: Laços de repetição
+Objetivo: Aprender for com process.argv.
+
+Tarefa: Receba 3 números como argumentos e imprima a soma deles usando um laço.

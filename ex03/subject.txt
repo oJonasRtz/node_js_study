@@ -1,0 +1,8 @@
+📥 Exercício 4: Input interativo com readline
+Objetivo: Aprender a pegar dados ao vivo.
+
+Tarefa: Faça um programa que pergunte o nome do usuário e sua comida favorita. Depois, mostre uma frase como:
+
+Copy
+Edit
+João ama pizza!

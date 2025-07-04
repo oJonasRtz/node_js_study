@@ -1,0 +1,10 @@
+📁 Exercício 5: Criar e ler arquivos com fs
+Objetivo: Aprender a manipular arquivos.
+
+Tarefa: Crie um programa que:
+
+1-Receba um texto como argumento
+
+2-Salve esse texto em um arquivo chamado mensagem.txt
+
+3-Depois leia o conteúdo do arquivo e exiba no terminal
