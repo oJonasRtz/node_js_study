@@ -12,7 +12,7 @@ function	main(argv)
 	fs.writeFileSync(fileName, args[0]);
 
 	//read and  encode the content of the file
-	let	content = fs.readFileSync(fileName, 'utf-8');
+	let	content = fs.readFileSync(fileName, 'ascii');
 
 	//show the content
 	console.log(content);

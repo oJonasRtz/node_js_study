@@ -1,4 +1,3 @@
-
 function	main(argv)
 {
 	if (argv.length != 4)
